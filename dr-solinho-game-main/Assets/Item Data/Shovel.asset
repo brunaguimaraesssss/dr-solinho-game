@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22215b6a60c899347a4ac0503d823f57, type: 3}
+  m_Name: Shovel
+  m_EditorClassIdentifier: 
+  Icon: {fileID: 452275972360203219, guid: 99faf433af1152148a6f2fa301394a1b, type: 3}
+  Name: "P\xE1"
+  Description: "Uma simples p\xE1 de ferro"
+  Rarity: 0
+  ItemType: 1
+  Item: {fileID: 5179080755119251976, guid: 0be716cfe1978a4479b99ad3a131fbad, type: 3}
+  Price: 5
+  Duration: 5

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22215b6a60c899347a4ac0503d823f57, type: 3}
+  m_Name: Bucket
+  m_EditorClassIdentifier: 
+  Icon: {fileID: 7777382410421621455, guid: 2dd40e9268c18fd4286e19ef052361b9, type: 3}
+  Name: Balde
+  Description: Um simples balde de Ferro
+  Rarity: 0
+  ItemType: 2
+  Item: {fileID: 5179080755119251976, guid: 0be716cfe1978a4479b99ad3a131fbad, type: 3}
+  Price: 3
+  Duration: 10

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f007f6f17e13424abf378326703edca, type: 3}
+  m_Name: Tata
+  m_EditorClassIdentifier: 
+  Name: Tata
+  TotalHealth: 500
+  AttackPower: 12
+  WorldEnemy: {fileID: 4634855165916562826, guid: ccb9171382ca87a45baf2599fa9c1566, type: 3}
+  BattleEnemy: {fileID: 4078873997431251874, guid: 03569f6e3d04e334fbf2023dd4bdc00f, type: 3}

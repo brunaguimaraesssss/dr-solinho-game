@@ -1,0 +1,33 @@
+{
+	"functions" : 
+	[
+		{
+			"title": "História",
+			"people": [ "Alexys Giorgia Friol Boim (Universidade de São Paulo)", "Clécia Cristina Barbosa Guimarães"]
+		},
+		{
+			"title": "Som",
+			"people": [ "Tiago de Azevedo" ]
+		},
+		{
+			"title": "Personagens",
+			"people": [ Tiago de Azevedo", "Josiane Millani Lopes Mazzetto" ]
+		},
+		{
+			"title": "Programação",
+			"people": [ "João Fernando Ferreira Marques" ]
+		},
+		{
+			"title": "Arte",
+			"people": [ "Kamila Freitas da Silva", "Bruna Barbosa Guimarães", "Gabriel Nalin Gibin" ]
+		},
+		{
+			"title": "Coordenação",
+			"people": [ "Kleber de Oliveira Andrade (Fatec Americana)",  "Alexys Giorgia Friol Boim (Universidade de São Paulo)", "Antonio Carlos de Azevedo (Universidade de São Paulo)"]
+		},
+		{
+			"title": "Ferramentas",
+			"people": [ "Unity 2020.1.0f1" ]
+		}
+	]
+}

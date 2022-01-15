@@ -1,0 +1,850 @@
+fileFormatVersion: 2
+guid: 8d9bfcfc027d477498d5a713fec968e3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1847528135279926593
+    second: water_innerCorners_0
+  - first:
+      213: -211936802494367301
+    second: water_innerCorners_1
+  - first:
+      213: 8913591624353176902
+    second: water_innerCorners_2
+  - first:
+      213: 5712959165133845003
+    second: water_innerCorners_3
+  - first:
+      213: -5854615181593226136
+    second: water_innerCorners_4
+  - first:
+      213: 3329932148744658702
+    second: water_innerCorners_5
+  - first:
+      213: 8146232543453318663
+    second: water_innerCorners_6
+  - first:
+      213: -7776438469740867143
+    second: water_innerCorners_7
+  - first:
+      213: 8384135787299749303
+    second: water_innerCorners_8
+  - first:
+      213: -3995137746311144566
+    second: water_innerCorners_9
+  - first:
+      213: -8636539020057160193
+    second: water_innerCorners_10
+  - first:
+      213: -6378071582751187062
+    second: water_innerCorners_11
+  - first:
+      213: 3957750795572077821
+    second: water_innerCorners_12
+  - first:
+      213: -3528526101405176428
+    second: water_innerCorners_13
+  - first:
+      213: -2104663255583448551
+    second: water_innerCorners_14
+  - first:
+      213: 4200134543756299948
+    second: water_innerCorners_15
+  - first:
+      213: 3129989641774627641
+    second: water_innerCorners_16
+  - first:
+      213: 1555252166161890474
+    second: water_innerCorners_17
+  - first:
+      213: 5512010775675860721
+    second: water_innerCorners_18
+  - first:
+      213: 1847878946329013645
+    second: water_innerCorners_19
+  - first:
+      213: -833933889969751440
+    second: water_innerCorners_20
+  - first:
+      213: 822701549773704428
+    second: water_innerCorners_21
+  - first:
+      213: -7778554623140067054
+    second: water_innerCorners_22
+  - first:
+      213: 8982395358673197550
+    second: water_innerCorners_23
+  - first:
+      213: -3316855568055514363
+    second: water_innerCorners_24
+  - first:
+      213: -2668325526479392713
+    second: water_innerCorners_25
+  - first:
+      213: -4138116234803662908
+    second: water_innerCorners_26
+  - first:
+      213: -7161265388884797432
+    second: water_innerCorners_27
+  - first:
+      213: -1161957798296644688
+    second: water_innerCorners_28
+  - first:
+      213: -2162286908208363744
+    second: water_innerCorners_29
+  - first:
+      213: 7446243237658240685
+    second: water_innerCorners_30
+  - first:
+      213: 3625617160734276710
+    second: water_innerCorners_31
+  - first:
+      213: 5045505209629912870
+    second: water_innerCorners_32
+  - first:
+      213: 1355690936644315565
+    second: water_innerCorners_33
+  - first:
+      213: 8053592258144374649
+    second: water_innerCorners_34
+  - first:
+      213: 7291896890297899822
+    second: water_innerCorners_35
+  - first:
+      213: 3999522583832172052
+    second: water_innerCorners_36
+  - first:
+      213: -4310309210286381401
+    second: water_innerCorners_37
+  - first:
+      213: 860187795998399494
+    second: water_innerCorners_38
+  - first:
+      213: 5503124881497551032
+    second: water_innerCorners_39
+  - first:
+      213: 2954540479922835263
+    second: water_innerCorners_40
+  - first:
+      213: 9093265584126369810
+    second: water_innerCorners_41
+  - first:
+      213: -800140311474010321
+    second: water_innerCorners_42
+  - first:
+      213: 942181198080865238
+    second: water_innerCorners_43
+  - first:
+      213: -1861832700973683537
+    second: water_innerCorners_44
+  - first:
+      213: -703201487295773983
+    second: water_innerCorners_45
+  - first:
+      213: 9033956393423708654
+    second: water_innerCorners_46
+  - first:
+      213: 7116113785719412625
+    second: water_innerCorners_47
+  - first:
+      213: -6499620398215545981
+    second: water_innerCorners_48
+  - first:
+      213: -4987085104357003589
+    second: water_innerCorners_49
+  - first:
+      213: 3249269379047977217
+    second: water_innerCorners_50
+  - first:
+      213: -7756621835636711921
+    second: water_innerCorners_51
+  - first:
+      213: -5437152965001462430
+    second: water_innerCorners_52
+  - first:
+      213: -4856314521126036816
+    second: water_innerCorners_53
+  - first:
+      213: 5228595988362380481
+    second: water_innerCorners_54
+  - first:
+      213: 5181145312515704004
+    second: water_innerCorners_55
+  - first:
+      213: -7475194710469615362
+    second: water_innerCorners_56
+  - first:
+      213: 6572942502726609792
+    second: water_innerCorners_57
+  - first:
+      213: 4294352811746855030
+    second: water_innerCorners_58
+  - first:
+      213: 3661472317890925656
+    second: water_innerCorners_59
+  - first:
+      213: 4540751352935893704
+    second: water_innerCorners_60
+  - first:
+      213: -2841627339792247331
+    second: water_innerCorners_61
+  - first:
+      213: -3974825235557116731
+    second: water_innerCorners_62
+  - first:
+      213: -9182092553148921907
+    second: water_innerCorners_63
+  - first:
+      213: 450722469772512106
+    second: water_innerCorners_64
+  - first:
+      213: 7113174602341651270
+    second: water_innerCorners_65
+  - first:
+      213: 7700952793010345393
+    second: water_innerCorners_66
+  - first:
+      213: 4418052189111364565
+    second: water_innerCorners_67
+  - first:
+      213: -6410151604844177149
+    second: water_innerCorners_68
+  - first:
+      213: -7107043524256080660
+    second: water_innerCorners_69
+  - first:
+      213: -2910502740553324337
+    second: water_innerCorners_70
+  - first:
+      213: 7812568364456413876
+    second: water_innerCorners_71
+  - first:
+      213: 3600105315485568753
+    second: water_innerCorners_72
+  - first:
+      213: 3358560750392639597
+    second: water_innerCorners_73
+  - first:
+      213: 5445346687920281136
+    second: water_innerCorners_74
+  - first:
+      213: -4840153384941822327
+    second: water_innerCorners_75
+  - first:
+      213: 4489365576926919742
+    second: water_innerCorners_76
+  - first:
+      213: 8716376623037818698
+    second: water_innerCorners_77
+  - first:
+      213: 531855222058068470
+    second: water_innerCorners_78
+  - first:
+      213: 8782694150524148835
+    second: water_innerCorners_79
+  - first:
+      213: 9195601057265495934
+    second: water_innerCorners_80
+  - first:
+      213: 753926857111775431
+    second: water_innerCorners_81
+  - first:
+      213: 2906788082792434702
+    second: water_innerCorners_82
+  - first:
+      213: -852142534459274145
+    second: water_innerCorners_83
+  - first:
+      213: 249400240642605239
+    second: water_innerCorners_84
+  - first:
+      213: -8576746487531639505
+    second: water_innerCorners_85
+  - first:
+      213: -1290627047179777627
+    second: water_innerCorners_86
+  - first:
+      213: 6964771358433920946
+    second: water_innerCorners_87
+  - first:
+      213: -3772705083038528018
+    second: water_innerCorners_88
+  - first:
+      213: 2312073821225345971
+    second: water_innerCorners_89
+  - first:
+      213: -6560878071458648126
+    second: water_innerCorners_90
+  - first:
+      213: -2023242206090447897
+    second: water_innerCorners_91
+  - first:
+      213: 4436815497733361808
+    second: water_innerCorners_92
+  - first:
+      213: 6905446940563843558
+    second: water_innerCorners_93
+  - first:
+      213: 2264947230432631923
+    second: water_innerCorners_94
+  - first:
+      213: -5491343035754794194
+    second: water_innerCorners_95
+  - first:
+      213: -3293045810867091453
+    second: water_innerCorners_96
+  - first:
+      213: 9213945570799263679
+    second: water_innerCorners_97
+  - first:
+      213: -4646746109908736678
+    second: water_innerCorners_98
+  - first:
+      213: 798308052231412998
+    second: water_innerCorners_99
+  - first:
+      213: 8663525957304176988
+    second: water_innerCorners_100
+  - first:
+      213: 7205400886627558873
+    second: water_innerCorners_101
+  - first:
+      213: 835668876976915939
+    second: water_innerCorners_102
+  - first:
+      213: 1168571893763652181
+    second: water_innerCorners_103
+  - first:
+      213: -3207561029380749863
+    second: water_innerCorners_104
+  - first:
+      213: -1180349265484518532
+    second: water_innerCorners_105
+  - first:
+      213: -170152865423622843
+    second: water_innerCorners_106
+  - first:
+      213: -1066168228239150778
+    second: water_innerCorners_107
+  - first:
+      213: -7817307874605628454
+    second: water_innerCorners_108
+  - first:
+      213: 1048188957099435416
+    second: water_innerCorners_109
+  - first:
+      213: -5956295994570372679
+    second: water_innerCorners_110
+  - first:
+      213: 3800839478397060446
+    second: water_innerCorners_111
+  - first:
+      213: 4870469938978877922
+    second: water_innerCorners_112
+  - first:
+      213: -5080900224576104638
+    second: water_innerCorners_113
+  - first:
+      213: -754032516470935680
+    second: water_innerCorners_114
+  - first:
+      213: 8852425645606030121
+    second: water_innerCorners_115
+  - first:
+      213: 9165163999143777138
+    second: water_innerCorners_116
+  - first:
+      213: -4937461987195918784
+    second: water_innerCorners_117
+  - first:
+      213: 713374927371179902
+    second: water_innerCorners_118
+  - first:
+      213: 6444891595221018039
+    second: water_innerCorners_119
+  - first:
+      213: -5610200289075491305
+    second: water_innerCorners_120
+  - first:
+      213: -3673157308900077154
+    second: water_innerCorners_121
+  - first:
+      213: 3165618492602871346
+    second: water_innerCorners_122
+  - first:
+      213: 4339755326753481567
+    second: water_innerCorners_123
+  - first:
+      213: -7604955566245081525
+    second: water_innerCorners_124
+  - first:
+      213: 9207125216060436817
+    second: water_innerCorners_125
+  - first:
+      213: 3545889214512989368
+    second: water_innerCorners_126
+  - first:
+      213: -7979049373423568236
+    second: water_innerCorners_127
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: water_innerCorners_21
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 205
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceccc6e53b2da6b00800000000000000
+      internalID: 822701549773704428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_innerCorners_22
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 205
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21983c568c50d0490800000000000000
+      internalID: -7778554623140067054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_innerCorners_29
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 204
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02743c563830ef1e0800000000000000
+      internalID: -2162286908208363744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_innerCorners_30
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 172
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da626c3d5ce565760800000000000000
+      internalID: 7446243237658240685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_innerCorners_37
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 173
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a629c83c94be24c0800000000000000
+      internalID: -4310309210286381401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_innerCorners_38
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 173
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c5c943e3000fb00800000000000000
+      internalID: 860187795998399494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_innerCorners_45
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 172
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2853819f9bd36f0800000000000000
+      internalID: -703201487295773983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_innerCorners_46
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 204
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1a362d97f0f5d70800000000000000
+      internalID: 9033956393423708654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_innerCorners_85
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 79
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2de81ad28649f880800000000000000
+      internalID: -8576746487531639505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_innerCorners_86
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 79
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a98653e985c61ee0800000000000000
+      internalID: -1290627047179777627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_innerCorners_93
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 79
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9ad93e76315df50800000000000000
+      internalID: 6905446940563843558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_innerCorners_94
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 79
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c11f08185be6f10800000000000000
+      internalID: 2264947230432631923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_innerCorners_101
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 47
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d568b73ee9bef360800000000000000
+      internalID: 7205400886627558873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_innerCorners_102
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 47
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e50f028a64e89b00800000000000000
+      internalID: 835668876976915939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_innerCorners_109
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 47
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895266d8d4aeb8e00800000000000000
+      internalID: 1048188957099435416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water_innerCorners_110
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 47
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b90d8ac95cf65da0800000000000000
+      internalID: -5956295994570372679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

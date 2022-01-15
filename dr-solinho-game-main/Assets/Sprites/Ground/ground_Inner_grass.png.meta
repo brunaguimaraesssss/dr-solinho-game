@@ -1,0 +1,310 @@
+fileFormatVersion: 2
+guid: f2968d1b36bcd8c468e95753f1e0815d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3126350213159290756
+    second: ground_Inner_grass_0
+  - first:
+      213: 8703109520638390612
+    second: ground_Inner_grass_1
+  - first:
+      213: -1376183001648991854
+    second: ground_Inner_grass_2
+  - first:
+      213: 939083540600977901
+    second: ground_Inner_grass_3
+  - first:
+      213: 2977686500584769682
+    second: ground_Inner_grass_4
+  - first:
+      213: 7701535465919307969
+    second: ground_Inner_grass_5
+  - first:
+      213: -2096180729916438527
+    second: ground_Inner_grass_6
+  - first:
+      213: -917864925719628948
+    second: ground_Inner_grass_7
+  - first:
+      213: -8109820986247909449
+    second: ground_Inner_grass_8
+  - first:
+      213: -8267484068421513735
+    second: ground_Inner_grass_9
+  - first:
+      213: -4740549622514291899
+    second: ground_Inner_grass_10
+  - first:
+      213: -6131091607687630277
+    second: ground_Inner_grass_11
+  - first:
+      213: -4690894268164579262
+    second: ground_Inner_grass_12
+  - first:
+      213: -6443484309132035673
+    second: ground_Inner_grass_13
+  - first:
+      213: 7055514270586794052
+    second: ground_Inner_grass_14
+  - first:
+      213: -116080524511111643
+    second: ground_Inner_grass_15
+  - first:
+      213: 6361483969361883183
+    second: ground_Inner_grass_16
+  - first:
+      213: -3705192785223750550
+    second: ground_Inner_grass_17
+  - first:
+      213: -3100754638343452590
+    second: ground_Inner_grass_18
+  - first:
+      213: -6411927862548795871
+    second: ground_Inner_grass_19
+  - first:
+      213: -8979257376532621230
+    second: ground_Inner_grass_20
+  - first:
+      213: 1490840025469625187
+    second: ground_Inner_grass_21
+  - first:
+      213: 8760476339403731717
+    second: ground_Inner_grass_22
+  - first:
+      213: 5836952411639890027
+    second: ground_Inner_grass_23
+  - first:
+      213: 4494070408343308184
+    second: ground_Inner_grass_24
+  - first:
+      213: -7434434775253931070
+    second: ground_Inner_grass_25
+  - first:
+      213: 4124750531735678191
+    second: ground_Inner_grass_26
+  - first:
+      213: 6664589828902884804
+    second: ground_Inner_grass_27
+  - first:
+      213: 3310008874321300449
+    second: ground_Inner_grass_28
+  - first:
+      213: 3027219644671957084
+    second: ground_Inner_grass_29
+  - first:
+      213: 7685415124559094856
+    second: ground_Inner_grass_30
+  - first:
+      213: 5285646005148471632
+    second: ground_Inner_grass_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ground_Inner_grass_4
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 77
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298c4d7881ed25920800000000000000
+      internalID: 2977686500584769682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground_Inner_grass_5
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 77
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c06137a3b951ea60800000000000000
+      internalID: 7701535465919307969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground_Inner_grass_12
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 45
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240622b348896eeb0800000000000000
+      internalID: -4690894268164579262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ground_Inner_grass_13
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 45
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9b16ee8252496a0800000000000000
+      internalID: -6443484309132035673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
